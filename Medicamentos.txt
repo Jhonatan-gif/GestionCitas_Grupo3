@@ -1,0 +1,3 @@
+1,     Paracetamol,     dolor,     analgesico, 2.0,3
+2,    IBUPROFENO,    c,    asdasd, 4.0,5
+3, Indriax, Tratamiento_dermatologico, Analgesico, 5.0,4

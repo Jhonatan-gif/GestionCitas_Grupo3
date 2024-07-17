@@ -1,0 +1,4 @@
+12,   Traumatologia
+2,    Odontologia
+8,   Dermatologia
+5, Medicina General

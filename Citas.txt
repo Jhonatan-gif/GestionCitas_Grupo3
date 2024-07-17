@@ -1,0 +1,2 @@
+12,  Mathew,  Cartagena,  Arredondo,  12/12/20224,1221,12:00,Paciente con tos severa,12
+13, Carlos, Gallo, Zapata, 13/05/2022,1221,12:00,Paciente con tos severa,12

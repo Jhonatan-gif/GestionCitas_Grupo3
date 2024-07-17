@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="667aa07c-accd-430b-b72c-03b67c640bf3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Citas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Consultorio.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medicamentos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controlador/ProcesoCita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controlador/ProcesoConsultorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controlador/ProcesoMedicamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controlador/ProcesoPaciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/cancelar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/citas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/consultorio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/icn_citas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/icn_consul.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/icn_medica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/limpiar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/medicamentos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modelo/Cita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modelo/Consultorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modelo/Medicamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modelo/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vista/Limpiar_txt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vista/Ventana.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vista/Ventana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vista/VistaCitas.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vista/VistaCitas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vista/VistaConsultorio.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vista/VistaConsultorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vista/VistaMedicamentos.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vista/VistaMedicamentos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vista/imgTabla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vista/splash.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vista/splash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2jLE75pDgcXCk5htyaKkZ0flN58" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ventana.executor": "Run",
+    "Application.VistaCitas.executor": "Run",
+    "Application.splash.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/JOEL/UNIVERSIDAD/PROGRAMACION II/Grupo3_Programacion/untitled"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\JOEL\UNIVERSIDAD\PROGRAMACION II\Grupo3_Programacion\untitled" />
+      <recent name="C:\Users\User\Desktop\JOEL\UNIVERSIDAD\PROGRAMACION II\Grupo3_Programacion\untitled\src" />
+      <recent name="C:\Users\User\Desktop\JOEL\UNIVERSIDAD\PROGRAMACION II\Grupo3_Programacion\untitled\src\Vista" />
+      <recent name="C:\Users\User\Desktop\JOEL\UNIVERSIDAD\PROGRAMACION II\Grupo3_Programacion\untitled\src\Imagenes" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="667aa07c-accd-430b-b72c-03b67c640bf3" name="Changes" comment="" />
+      <created>1721157788824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721157788824</updated>
+    </task>
+    <servers />
+  </component>
+</project>
